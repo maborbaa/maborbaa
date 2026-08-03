@@ -2,99 +2,162 @@
   <a href="#-english-version">🇺🇸 English Version</a> | <a href="#-versão-em-português">🇧🇷 Versão em Português</a>
 </div>
 
----
+<hr>
 
 <div id="-english-version"></div>
 
-### Hi there! I'm Marcio Barbosa 👋
+<h3>Hi there! I'm Marcio Barbosa 👋</h3>
 
-**Tech Innovation Manager ➡️ Embedded Systems Engineer**
+<p><strong>Embedded Systems Engineer | Firmware & Industrial IoT</strong></p>
 
-I am a professional with a solid track record in Innovation Project Management and AgroTech, currently undergoing a deep technical immersion in **Embedded Systems** and **FPGAs**.
+<p>I am a Firmware Engineer with over a decade of experience bridging the gap between <strong>strategic hardware architecture</strong> and <strong>rigorous field validation</strong> in hostile industrial and AgTech environments.</p>
 
-My mission is to bridge the gap between **Strategic Business Vision** (understanding "how much" and "why") and **Technical Execution** (knowing "how to build" and "validate").
+<p>My focus is on writing resilient, testable, and production-ready code that aligns with strict business and field requirements, specifically in <strong>bare-metal</strong>, <strong>RTOS</strong>, and <strong>reconfigurable hardware (FPGA)</strong>.</p>
 
-#### 🚀 Current Focus & Learning Journey
+<h4>🚀 Current Focus & Engineering Capabilities</h4>
 
-Currently, I am a Resident Researcher at the **EmbarcaTech** program, transitioning from management to hands-on engineering.
+<p>Currently, I am a Resident Researcher at the <strong>EmbarcaTech</strong> program, acting in the development of critical software and hardware architectures.</p>
 
-- 🔭 **I’m prototyping with:** **RP2040 (Raspberry Pi Pico)** and **FPGAs (Lattice ECP5)**.
-- 🌱 **I’m learning deeply:**
-    - **Firmware:** Embedded C, GPIO manipulation, Interrupts.
-    - **Digital Logic:** SystemVerilog basics, Simulation.
-    - **Comms:** Understanding the basics of UART, SPI, and I2C.
+<ul>
+  <li>🔭 <strong>I’m architecting with:</strong> <strong>STM32 / ARM Cortex-M</strong> (Low-power/Event-driven) and <strong>FPGAs (Lattice ECP5)</strong>.</li>
+  <li>🌱 <strong>I’m developing deeply:</strong>
+    <ul>
+      <li><strong>Firmware:</strong> Embedded C/C++, FreeRTOS, advanced HAL manipulation, and robust parsers.</li>
+      <li><strong>Hardware Design:</strong> Soft-Core RISC-V (PicoRV32), Over-the-Air (OTA) update systems, CDC, and Multiboot.</li>
+      <li><strong>QA & Testing:</strong> Strict application of Test-Driven Development (TDD) using Google Test and Ceedling.</li>
+    </ul>
+  </li>
+</ul>
 
-#### 🛠️ Tools & Technologies (In Progress)
+<h4>🛠️ Tools & Technologies</h4>
 
-| Category | Focus Area |
-| :--- | :--- |
-| **Languages** | C (Embedded), SystemVerilog (HDL), Python (Scripting) |
-| **Microcontrollers** | Learning architecture via RP2040 & STM32 |
-| **FPGA Flow** | Open Source Toolchains (Yosys, Nextpnr) |
-| **Concepts** | Bare Metal programming, TDD, Finite State Machines |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Category</th>
+      <th align="left">Focus Area</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>C/C++ (Bare-metal & RTOS), SystemVerilog/Verilog, Python</td>
+    </tr>
+    <tr>
+      <td><strong>Architecture & OS</strong></td>
+      <td>FreeRTOS, Embedded Linux (Yocto), Hardware-in-the-Loop (HIL)</td>
+    </tr>
+    <tr>
+      <td><strong>FPGA Flow</strong></td>
+      <td>Strictly Open Source Toolchains (Yosys, Nextpnr)</td>
+    </tr>
+    <tr>
+      <td><strong>Protocols & Comms</strong></td>
+      <td>SPI, I2C, UART, 4G/M2M, Wi-Fi Mesh</td>
+    </tr>
+  </tbody>
+</table>
 
-#### 💼 Professional Background (Management)
+<h4>💼 Validation & Product Architecture</h4>
 
-Before diving into code, I built a career managing innovation projects where I dealt with high-level concepts of **IoT, Mesh Networks, and Cloud Integration**:
+<p>Throughout my career, I led the validation of end-to-end IoT products and complex R&D initiatives:</p>
 
-* **Head of Business Unit (@Tech):** Led AgroTech projects, validating IoT solutions in the field.
-* **Funding & Grants:** Secured and managed over **R$ 3.5M** in funding (FAPESP/FINEP).
-* **PMO:** Structured project management offices.
+<ul>
+  <li><strong>Industrial IoT & AgTech:</strong> Architected and validated Mesh Networks and Vision edge devices in the field.</li>
+  <li><strong>Funding & Grants:</strong> Secured, executed, and technically managed over <strong>R$ 3.5M</strong> in R&D funding (FAPESP/FINEP).</li>
+  <li><strong>Integration:</strong> Bridged Hardware, Firmware, and Cloud, translating complex business requirements into resilient technical architectures.</li>
+</ul>
 
-> *I am now bringing this strategic background to the workbench, learning the nuts and bolts of the systems I used to manage.*
+<blockquote>
+  <p><em>I leverage this architectural maturity to build reliable edge computing infrastructures, preparing the ground for edge AI and Computer Vision.</em></p>
+</blockquote>
 
-#### 📫 Contact
+<h4>📫 Contact</h4>
 
-* **LinkedIn:** [linkedin.com/in/marciobar](https://www.linkedin.com/in/marciobar/)
-* **Location:** Piracicaba, São Paulo, Brazil
+<ul>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/marciobar/">linkedin.com/in/marciobar</a></li>
+  <li><strong>Location:</strong> Piracicaba, São Paulo, Brazil</li>
+</ul>
 
----
+<hr>
 
 <div id="-versão-em-português"></div>
 
-### Olá! Sou o Marcio Barbosa 👋
+<h3>Olá! Sou o Marcio Barbosa 👋</h3>
 
-**Tech Innovation Manager ➡️ Embedded Systems Engineer**
+<p><strong>Engenheiro de Sistemas Embarcados & Firmware | IoT Industrial</strong></p>
 
-Sou um profissional com sólida trajetória em Gestão de Projetos de Inovação e AgroTech, atualmente em uma imersão técnica profunda no mundo dos **Sistemas Embarcados** e **FPGAs**.
+<p>Sou um Engenheiro de Firmware com mais de uma década de experiência conectando a <strong>arquitetura estratégica de hardware</strong> com a <strong>validação rigorosa em campo</strong> em ambientes industriais e agropecuários hostis.</p>
 
-Minha missão é unir a **visão estratégica de negócios** (sei quanto custa e por que fazer) com a **capacidade de execução técnica** (sei como construir e validar).
+<p>Meu foco técnico está em escrever códigos resilientes, testáveis e prontos para produção, com forte atuação em <strong>bare-metal</strong>, <strong>RTOS</strong> e <strong>hardware reconfigurável (FPGA)</strong>.</p>
 
-#### 🚀 Foco Atual & Jornada de Aprendizado
+<h4>🚀 Foco Atual & Capacidades de Engenharia</h4>
 
-Atualmente, sou Pesquisador Residente no programa **EmbarcaTech**, fazendo a transição da gestão para a engenharia "mão na massa".
+<p>Atualmente, sou Pesquisador Residente no programa <strong>EmbarcaTech</strong>, atuando no desenvolvimento de software crítico e arquiteturas de hardware.</p>
 
-- 🔭 **Estou prototipando com:** **RP2040 (Raspberry Pi Pico)** e **FPGAs (Lattice ECP5)**.
-- 🌱 **Estou aprendendo a fundo:**
-    - **Firmware:** C para embarcados, manipulação de GPIO, Interrupções.
-    - **Lógica Digital:** Fundamentos de SystemVerilog, Simulação.
-    - **Comunicação:** Entendendo a base de UART, SPI e I2C.
+<ul>
+  <li>🔭 <strong>Estou arquitetando com:</strong> <strong>STM32 / ARM Cortex-M</strong> (Low-power/Event-driven) e <strong>FPGAs (Lattice ECP5)</strong>.</li>
+  <li>🌱 <strong>Estou desenvolvendo a fundo:</strong>
+    <ul>
+      <li><strong>Firmware:</strong> C/C++ Embarcado, FreeRTOS, manipulação avançada de HAL e parsers robustos.</li>
+      <li><strong>Design de Hardware:</strong> Soft-Core RISC-V (PicoRV32), sistemas OTA (Over-the-Air), CDC e Multiboot.</li>
+      <li><strong>QA & Testes:</strong> Aplicação rigorosa de Test-Driven Development (TDD) com Google Test e Ceedling.</li>
+    </ul>
+  </li>
+</ul>
 
-#### 🛠️ Ferramentas & Tecnologias (Em Estudo)
+<h4>🛠️ Ferramentas & Tecnologias</h4>
 
-| Categoria | Área de Foco |
-| :--- | :--- |
-| **Linguagens** | C (Embarcados), SystemVerilog (HDL), Python (Scripts) |
-| **Microcontroladores** | Aprendendo arquitetura via RP2040 & STM32 |
-| **Fluxo FPGA** | Ferramentas Open Source (Yosys, Nextpnr) |
-| **Conceitos** | Programação Bare Metal, TDD, Máquinas de Estados |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Categoria</th>
+      <th align="left">Área de Foco</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Linguagens</strong></td>
+      <td>C/C++ (Bare-metal & RTOS), SystemVerilog/Verilog, Python</td>
+    </tr>
+    <tr>
+      <td><strong>Arquitetura & SO</strong></td>
+      <td>FreeRTOS, Linux Embarcado (Yocto), Hardware-in-the-Loop (HIL)</td>
+    </tr>
+    <tr>
+      <td><strong>Fluxo FPGA</strong></td>
+      <td>Toolchains estritamente Open Source (Yosys, Nextpnr)</td>
+    </tr>
+    <tr>
+      <td><strong>Protocolos e Comms</strong></td>
+      <td>SPI, I2C, UART, 4G/M2M, Wi-Fi Mesh</td>
+    </tr>
+  </tbody>
+</table>
 
-#### 💼 Background Profissional (Gestão)
+<h4>💼 Validação & Arquitetura de Produto</h4>
 
-Antes de mergulhar no código, construí uma carreira gerenciando projetos de inovação onde lidei com conceitos de alto nível de **IoT, Redes Mesh e Integração Cloud**:
+<p>Ao longo da minha carreira, liderei a validação de produtos IoT de ponta a ponta e iniciativas complexas de P&D:</p>
 
-* **Head de Unidade de Negócios (@Tech):** Liderança de projetos AgroTech, validando soluções IoT em campo.
-* **Gestão de Fomento:** Captação e gestão de recursos (FAPESP/FINEP) superiores a R$ 3,5M.
-* **PMO:** Estruturação de escritórios de projetos.
+<ul>
+  <li><strong>IoT Industrial e AgTech:</strong> Arquitetura e validação em campo de Redes Mesh e dispositivos de borda com Visão Computacional.</li>
+  <li><strong>Gestão de Fomento:</strong> Captação, execução técnica e gestão de mais de <strong>R$ 3,5M</strong> em recursos (FAPESP/FINEP).</li>
+  <li><strong>Integração:</strong> Conexão entre Hardware, Firmware e Cloud, traduzindo requisitos de negócios em arquiteturas técnicas resilientes.</li>
+</ul>
 
-> *Agora estou trazendo essa bagagem estratégica para a bancada, aprendendo os detalhes técnicos dos sistemas que eu costumava gerenciar.*
+<blockquote>
+  <p><em>Utilizo essa maturidade arquitetural para construir infraestruturas de borda (Edge Computing) confiáveis, preparando o terreno para IA e Visão Computacional na borda.</em></p>
+</blockquote>
 
-#### 📫 Contato
+<h4>📫 Contato</h4>
 
-* **LinkedIn:** [linkedin.com/in/marciobar](https://www.linkedin.com/in/marciobar/)
-* **Localização:** Piracicaba, São Paulo, Brasil
+<ul>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/marciobar/">linkedin.com/in/marciobar</a></li>
+  <li><strong>Localização:</strong> Piracicaba, São Paulo, Brasil</li>
+</ul>
 
----
+<hr>
+
 <div align="center">
-  <small>⭐️ Se você achou interessante minha transição de carreira, deixe uma estrela!</small>
+  <small>⭐️ Se você achou interessante minha trajetória técnica e projetos, deixe uma estrela!</small>
 </div>
