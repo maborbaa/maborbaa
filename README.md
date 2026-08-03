@@ -8,11 +8,11 @@
 
 <h3>Hi there! I'm Marcio Barbosa 👋</h3>
 
-<p><strong>Systems Integration & IoT Specialist | Firmware Development | Field Validation & R&D</strong></p>
+<p><strong>R&D Leadership & Technical Execution | IoT Systems Integration | Embedded Firmware | Field Validation</strong></p>
 
-<p>I am a specialist with over a decade of experience bringing technology to places where it must truly work—industrial plants, feedlots, and remote farms. My focus is on bridging the gap between <strong>strategic hardware architecture</strong> and <strong>rigorous field execution</strong>, ensuring systems survive harsh environments with full traceability and data quality.</p>
+<p>I'm a professional with over a decade of experience bridging <strong>R&D project leadership</strong> and <strong>hands-on field execution</strong> in industrial and agricultural IoT. I've led publicly funded projects (FINEP, FAPESP) and portfolios of up to 6 simultaneous initiatives — and I've also personally validated hardware under dust, heat, and ammonia, because technology only delivers results when it survives the real environment.</p>
 
-<p>Currently, I am transitioning from R&D management into hands-on engineering, writing resilient, testable, and production-ready code specifically in <strong>bare-metal</strong>, <strong>RTOS</strong>, and <strong>reconfigurable hardware (FPGA)</strong>.</p>
+<p>I'm currently deepening my technical foundation through the <strong>EmbarcaTech</strong> program and the <strong>Computer Vision Residency (TIC43/iRede)</strong> — not as a career pivot, but as the natural extension of someone who has always needed to understand the technology deeply in order to lead its deployment.</p>
 
 <h4>🚀 Current Focus & Engineering Capabilities</h4>
 
@@ -85,11 +85,11 @@
 
 <h3>Olá! Sou o Marcio Barbosa 👋</h3>
 
-<p><strong>Especialista em Integração de Sistemas & IoT | Desenvolvimento de Firmware | Validação de Campo e P&D</strong></p>
+<p><strong>Liderança em P&D & Execução Técnica | Integração de Sistemas IoT | Firmware Embarcado | Validação de Campo</strong></p>
 
-<p>Sou um especialista com mais de uma década de experiência levando tecnologia a lugares onde ela precisa funcionar de verdade — galpões industriais, confinamentos e fazendas remotas. Meu foco é conectar a <strong>arquitetura estratégica de hardware</strong> com a <strong>execução rigorosa em campo</strong>, garantindo que os sistemas operem sob condições hostis com rastreabilidade e qualidade de dados.</p>
+<p>Sou um profissional com mais de uma década de experiência unindo <strong>gestão de projetos de P&D</strong> e <strong>execução técnica de campo</strong> em IoT industrial e agropecuário. Liderei projetos com fomento público (FINEP, FAPESP) e portfólios de até 6 iniciativas simultâneas — e também validei pessoalmente hardware sob poeira, calor e amônia, porque tecnologia só entrega resultado quando sobrevive ao ambiente real.</p>
 
-<p>Atualmente, estou em transição da gestão de P&D para a engenharia "mão na massa", focado em escrever códigos resilientes, testáveis e prontos para produção, com forte atuação em <strong>bare-metal</strong>, <strong>RTOS</strong> e <strong>hardware reconfigurável (FPGA)</strong>.</p>
+<p>Atualmente aprofundo minha base técnica através do <strong>EmbarcaTech</strong> e da <strong>Residência em Visão Computacional (TIC43/iRede)</strong> — não como uma virada de rumo, mas como extensão natural de quem sempre precisou entender a tecnologia a fundo para liderar sua implantação.</p>
 
 <h4>🚀 Foco Atual & Capacidades de Engenharia</h4>
 
