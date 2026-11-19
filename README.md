@@ -1,163 +1,149 @@
-<div align="center">
-  <a href="#-english-version">🇺🇸 English Version</a> | <a href="#-versão-em-português">🇧🇷 Versão em Português</a>
-</div>
+* 
 
-<hr>
+* <div align="center">   <a href="#-versão-em-português">🇧🇷 Português</a> | <a href="#-english-version">🇺🇸 English</a> </div>
 
-<div id="-english-version"></div>
+  ------
 
-<h3>Hi there! I'm Marcio Barbosa 👋</h3>
+  ## 🇧🇷 Versão em Português
 
-<p><strong>R&D Leadership & Technical Execution | IoT Systems Integration | Embedded Firmware | Field Validation</strong></p>
+  ### Olá! Sou o Marcio Barbosa 👋
 
-<p>I'm a professional with over a decade of experience bridging <strong>R&D project leadership</strong> and <strong>hands-on field execution</strong> in industrial and agricultural IoT. I've led publicly funded projects (FINEP, FAPESP) and portfolios of up to 6 simultaneous initiatives — and I've also personally validated hardware under dust, heat, and ammonia, because technology only delivers results when it survives the real environment.</p>
+  **Liderança Técnica em P&D | Sistemas Embarcados, FPGA & Edge AI | Desenvolvimento de Produto (Agro & Indústria)**
 
-<p>I'm currently deepening my technical foundation through the <strong>EmbarcaTech</strong> program and the <strong>Computer Vision Residency (TIC43/iRede)</strong> — not as a career pivot, but as the natural extension of someone who has always needed to understand the technology deeply in order to lead its deployment.</p>
+  Profissional com mais de uma década de experiência conectando gestão de projetos de P&D (FAPESP, FINEP) e execução técnica em campo. Atuo na construção de sistemas completos, do hardware reconfigurável e firmware crítico até a camada de dados e aplicações para tomada de decisão. Já validei hardware pessoalmente sob poeira, calor e amônia, porque tecnologia só entrega resultado quando sobrevive ao ambiente real.
 
-<h4>🚀 Current Focus & Engineering Capabilities</h4>
+  ------
 
-<p>I am consolidating my technical execution through the <strong>EmbarcaTech</strong> program and <strong>Instituto iRede</strong>, acting in the development of critical software and hardware architectures.</p>
+  ### 🧭 Como organizo meus estudos
 
-<ul>
-  <li>🔭 <strong>I’m architecting with:</strong> <strong>STM32 / ARM Cortex-M</strong> (Low-power/Event-driven) and <strong>FPGAs (Lattice ECP5)</strong>.</li>
-  <li>🌱 <strong>I’m developing deeply:</strong>
-    <ul>
-      <li><strong>Firmware:</strong> Embedded C/C++, FreeRTOS, advanced HAL manipulation, and robust parsers.</li>
-      <li><strong>Hardware Design:</strong> Soft-Core RISC-V (PicoRV32), Over-the-Air (OTA) update systems, CDC, and Multiboot.</li>
-      <li><strong>QA & Testing:</strong> Strict application of Test-Driven Development (TDD) using Google Test and Ceedling.</li>
-    </ul>
-  </li>
-</ul>
+  Cada área tem um repositório com **práticas isoladas**, e em cada prática registro **o que fiz e o que aprendi**. Mais adiante, vou reunir as áreas em **projetos integrados**.
 
-<h4>🛠️ Tools & Technologies</h4>
+  | Área                           | Repositório                                                  | O que você encontra                                          |
+  | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | Hardware reconfigurável & FPGA | [fpga-system](https://github.com/maborbaa/fpga-system)       | SoC, RISC-V (PicoRV32), toolchain open source, sistema OTA de bitstream com Safe Boot |
+  | Firmware embarcado             | [embedded_firmware-arm](https://github.com/maborbaa/embedded_firmware-arm) | C/C++ bare-metal e FreeRTOS em ARM Cortex-M, TDD com Google Test e Ceedling |
+  | Visão computacional            | [computer-vision](https://github.com/maborbaa/computer-vision) | Processamento de imagens, extração de características e classificação |
+  | Web & Mobile                   | [web_mobile-app](https://github.com/maborbaa/web_mobile-app) | Práticas de Android (Kotlin) e aplicações orientadas a dados para o campo |
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Category</th>
-      <th align="left">Focus Area</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td>C/C++ (Bare-metal & RTOS), SystemVerilog/Verilog, Python</td>
-    </tr>
-    <tr>
-      <td><strong>Architecture & OS</strong></td>
-      <td>FreeRTOS, Embedded Linux (Yocto), Hardware-in-the-Loop (HIL)</td>
-    </tr>
-    <tr>
-      <td><strong>FPGA Flow</strong></td>
-      <td>Strictly Open Source Toolchains (Yosys, Nextpnr)</td>
-    </tr>
-    <tr>
-      <td><strong>Protocols & Comms</strong></td>
-      <td>SPI, I2C, UART, 4G/M2M, Wi-Fi Mesh</td>
-    </tr>
-  </tbody>
-</table>
+  ------
 
-<h4>💼 Validation & Product Architecture</h4>
+  ### 🚧 Em construção
 
-<p>Throughout my career, I led the validation of end-to-end IoT products and complex R&D initiatives:</p>
+  **Janela de Plantio** (Android, Kotlin + Jetpack Compose): app que consulta janelas de plantio de baixo risco climático com dados da AgroAPI/Embrapa. É a primeira prática do repositório [web_mobile-app](https://github.com/maborbaa/web_mobile-app), onde o andamento é registrado.
 
-<ul>
-  <li><strong>Industrial IoT & AgTech:</strong> Architected and validated Mesh Networks and Vision edge devices in the field, from bench testing to end-to-end cloud integration.</li>
-  <li><strong>National Recognition:</strong> Acted in teams awarded 1st place in the Leaders in Innovation Fellowships (Royal Academy of Engineering, UK) and 2nd place in the AGRO 4.0 Award (ABDI), delivering measurable margin optimization.</li>
-  <li><strong>Integration:</strong> Bridged Hardware, Firmware, and Cloud, translating complex business requirements into resilient technical architectures.</li>
-</ul>
+  **Próximo passo:** projetos que unam as áreas, como um app Android recebendo dados de sensores embarcados.
 
-<blockquote>
-  <p><em>I leverage this architectural maturity to build reliable edge computing infrastructures, preparing the ground for edge AI and Computer Vision.</em></p>
-</blockquote>
+  ------
 
-<h4>📫 Contact</h4>
+  ### 🛠️ Ferramentas & Tecnologias
 
-<ul>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/marciobar/">linkedin.com/in/marciobar</a></li>
-  <li><strong>Location:</strong> Piracicaba, São Paulo, Brazil</li>
-</ul>
+  | Categoria          | Área de foco                                                 |
+  | ------------------ | ------------------------------------------------------------ |
+  | Linguagens         | C/C++ (bare-metal e RTOS), SystemVerilog/Verilog, Python     |
+  | Arquitetura & SO   | FreeRTOS, Linux Embarcado (Yocto), Hardware-in-the-Loop (HIL) |
+  | Fluxo FPGA         | Toolchains open source (Yosys, Nextpnr, GTKWave)             |
+  | Protocolos & Comms | SPI, I2C, UART, 4G/M2M, Wi-Fi Mesh                           |
+  | Em aprendizado     | Kotlin e Jetpack Compose (Android)                           |
 
-<hr>
+  ------
 
-<div id="-versão-em-português"></div>
+  ### 🏆 Reconhecimentos & Campo
 
-<h3>Olá! Sou o Marcio Barbosa 👋</h3>
+  - **Campo:** liderei a validação de produtos IoT de ponta a ponta, da bancada à integração com a nuvem em produção real, e conduzi portfólios de até 6 iniciativas simultâneas.
+  - **Prêmios:** atuei em equipes premiadas com o 1º lugar no *Leaders in Innovation Fellowships* (Royal Academy of Engineering, Reino Unido) e o 2º lugar no *Prêmio AGRO 4.0* (ABDI), gerando impacto financeiro mensurável na indústria avícola.
 
-<p><strong>Liderança em P&D & Execução Técnica | Integração de Sistemas IoT | Firmware Embarcado | Validação de Campo</strong></p>
+  ------
 
-<p>Sou um profissional com mais de uma década de experiência unindo <strong>gestão de projetos de P&D</strong> e <strong>execução técnica de campo</strong> em IoT industrial e agropecuário. Liderei projetos com fomento público (FINEP, FAPESP) e portfólios de até 6 iniciativas simultâneas — e também validei pessoalmente hardware sob poeira, calor e amônia, porque tecnologia só entrega resultado quando sobrevive ao ambiente real.</p>
+  ### 🎓 Capacitações & Residências Tecnológicas
 
-<p>Atualmente aprofundo minha base técnica através do <strong>EmbarcaTech</strong> e da <strong>Residência em Visão Computacional (TIC43/iRede)</strong> — não como uma virada de rumo, mas como extensão natural de quem sempre precisou entender a tecnologia a fundo para liderar sua implantação.</p>
+  - **Residência em Visão Computacional (TIC43)**: *Instituto iRede / Softex / MCTI*
+  - **Programa EmbarcaTech, Fase 2 (Residência Tecnológica)**: *MCTI / Softex / Grupo NEPEN*. Projeto final: prova de conceito de um sistema híbrido para atualização remota (OTA) de bitstream em plataformas embarcadas baseadas em FPGA.
+  - **Programa EmbarcaTech, Fase 1 (Capacitação Avançada)**: *MCTI / Softex*. Formação intensiva de 160h em microcontroladores ARM, C/C++ embarcado, periféricos e protocolos IoT.
 
-<h4>🚀 Foco Atual & Capacidades de Engenharia</h4>
+  ------
 
-<p>Estou consolidando minha execução técnica através do programa <strong>EmbarcaTech</strong> e do <strong>Instituto iRede</strong>, atuando no desenvolvimento de software crítico e arquiteturas de hardware.</p>
+  ### ✍️ Artigos & Notas Técnicas
 
-<ul>
-  <li>🔭 <strong>Estou arquitetando com:</strong> <strong>STM32 / ARM Cortex-M</strong> (Low-power/Event-driven) e <strong>FPGAs (Lattice ECP5)</strong>.</li>
-  <li>🌱 <strong>Estou desenvolvendo a fundo:</strong>
-    <ul>
-      <li><strong>Firmware:</strong> C/C++ Embarcado, FreeRTOS, manipulação avançada de HAL e parsers robustos.</li>
-      <li><strong>Design de Hardware:</strong> Soft-Core RISC-V (PicoRV32), sistemas OTA (Over-the-Air), CDC e Multiboot.</li>
-      <li><strong>QA & Testes:</strong> Aplicação rigorosa de Test-Driven Development (TDD) com Google Test e Ceedling.</li>
-    </ul>
-  </li>
-</ul>
+  - 📝 *Em preparação:* **Atualização Remota (OTA) em FPGA com Toolchain Open-Source: Lições de Bancada sobre CDC, Ruído em SPI e Safe Boot.**
 
-<h4>🛠️ Ferramentas & Tecnologias</h4>
+  ------
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Categoria</th>
-      <th align="left">Área de Foco</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Linguagens</strong></td>
-      <td>C/C++ (Bare-metal & RTOS), SystemVerilog/Verilog, Python</td>
-    </tr>
-    <tr>
-      <td><strong>Arquitetura & SO</strong></td>
-      <td>FreeRTOS, Linux Embarcado (Yocto), Hardware-in-the-Loop (HIL)</td>
-    </tr>
-    <tr>
-      <td><strong>Fluxo FPGA</strong></td>
-      <td>Toolchains estritamente Open Source (Yosys, Nextpnr)</td>
-    </tr>
-    <tr>
-      <td><strong>Protocolos e Comms</strong></td>
-      <td>SPI, I2C, UART, 4G/M2M, Wi-Fi Mesh</td>
-    </tr>
-  </tbody>
-</table>
+  ### 📫 Contato & Perfis
 
-<h4>💼 Validação & Arquitetura de Produto</h4>
+  - **LinkedIn:** [linkedin.com/in/marciobar](https://www.linkedin.com/in/marciobar/)
+  - **FAPESP (Biblioteca Virtual):** [bv.fapesp.br/pt/pesquisador/677529/marcio-barbosa](https://bv.fapesp.br/pt/pesquisador/677529/marcio-barbosa/)
+  - **ORCID:** [0000-0002-6660-0549](https://orcid.org/0000-0002-6660-0549)
+  - **Localização:** Piracicaba, São Paulo, Brasil
 
-<p>Ao longo da minha carreira, liderei a validação de produtos IoT de ponta a ponta e iniciativas complexas de P&D:</p>
+  ------
 
-<ul>
-  <li><strong>IoT Industrial e AgTech:</strong> Arquitetura e validação em campo de Redes Mesh e dispositivos de borda, atuando no ciclo completo: da bancada à integração com a nuvem em produção real.</li>
-  <li><strong>Reconhecimento Nacional:</strong> Atuei em equipes premiadas com o 1º lugar no Leaders in Innovation Fellowships (Reino Unido) e 2º lugar no Prêmio AGRO 4.0 (ABDI), gerando impacto financeiro mensurável na indústria avícola.</li>
-  <li><strong>Integração:</strong> Conexão entre Hardware, Firmware e Cloud, traduzindo requisitos de negócios em arquiteturas técnicas resilientes.</li>
-</ul>
+  ## 🇺🇸 English Version
 
-<blockquote>
-  <p><em>Utilizo essa maturidade arquitetural para construir infraestruturas de borda (Edge Computing) confiáveis, preparando o terreno para IA e Visão Computacional na borda.</em></p>
-</blockquote>
+  ### Hi there! I'm Marcio Barbosa 👋
 
-<h4>📫 Contato</h4>
+  **R&D Technical Leadership | Embedded Systems, FPGA & Edge AI | Product Engineering (AgTech & Industry)**
 
-<ul>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/marciobar/">linkedin.com/in/marciobar</a></li>
-  <li><strong>Localização:</strong> Piracicaba, São Paulo, Brasil</li>
-</ul>
+  Engineer and R&D leader with over a decade of experience bridging publicly funded innovation projects (FAPESP, FINEP) and hands-on field validation. I build end-to-end systems, from reconfigurable hardware and critical firmware to data layers and user-facing decision tools. I have personally validated hardware under dust, heat, and ammonia, because technology only delivers results when it survives the real environment.
 
-<hr>
+  ------
 
-<div align="center">
-  <small>⭐️ Se você achou interessante minha trajetória técnica e projetos, deixe uma estrela!</small>
-</div>
+  ### 🧭 How I organize my studies
+
+  Each area has a repository with **isolated practices**, and for each practice I record **what I did and what I learned**. Later on, I will bring the areas together in **integrated projects**.
+
+  | Area                           | Repository                                                   | What you will find                                           |
+  | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | Reconfigurable hardware & FPGA | [fpga-system](https://github.com/maborbaa/fpga-system)       | SoC, RISC-V (PicoRV32), open-source toolchain, OTA bitstream update system with Safe Boot |
+  | Embedded firmware              | [embedded_firmware-arm](https://github.com/maborbaa/embedded_firmware-arm) | Bare-metal C/C++ and FreeRTOS on ARM Cortex-M, TDD with Google Test and Ceedling |
+  | Computer vision                | [computer-vision](https://github.com/maborbaa/computer-vision) | Image processing, feature extraction, and classification     |
+  | Web & Mobile                   | [web_mobile-app](https://github.com/maborbaa/web_mobile-app) | Android (Kotlin) practices and data-driven applications for the field |
+
+  ------
+
+  ### 🚧 Work in progress
+
+  **Janela de Plantio** (Android, Kotlin + Jetpack Compose): an app that shows low-risk planting windows using data from Embrapa's AgroAPI. It is the first practice in the [web_mobile-app](https://github.com/maborbaa/web_mobile-app) repository, where progress is logged.
+
+  **Next step:** projects that bring the areas together, such as an Android app receiving data from embedded sensors.
+
+  ------
+
+  ### 🛠️ Tools & Technologies
+
+  | Category          | Focus area                                                   |
+  | ----------------- | ------------------------------------------------------------ |
+  | Languages         | C/C++ (bare-metal and RTOS), SystemVerilog/Verilog, Python   |
+  | Architecture & OS | FreeRTOS, Embedded Linux (Yocto), Hardware-in-the-Loop (HIL) |
+  | FPGA flow         | Open-source toolchains (Yosys, Nextpnr, GTKWave)             |
+  | Protocols & Comms | SPI, I2C, UART, 4G/M2M, Wi-Fi Mesh                           |
+  | Learning          | Kotlin and Jetpack Compose (Android)                         |
+
+  ------
+
+  ### 🏆 Recognition & Field Work
+
+  - **Field:** I led end-to-end validation of IoT products, from the bench to cloud integration in real production, and managed portfolios of up to 6 simultaneous initiatives.
+  - **Awards:** I worked in teams that won 1st place at the *Leaders in Innovation Fellowships* (Royal Academy of Engineering, UK) and 2nd place at the *AGRO 4.0 Award* (ABDI), delivering measurable financial impact in the poultry industry.
+
+  ------
+
+  ### 🎓 Residencies & Technical Training
+
+  - **Computer Vision Residency (TIC43)**: *Instituto iRede / Softex / MCTI*
+  - **EmbarcaTech Program, Phase 2 (Technological Residency)**: *MCTI / Softex / NEPEN Group*. Capstone: proof of concept of a hybrid system for over-the-air (OTA) bitstream updates in FPGA-based embedded platforms.
+  - **EmbarcaTech Program, Phase 1 (Advanced Training)**: *MCTI / Softex*. Intensive 160h program in ARM microcontrollers, embedded C/C++, peripherals, and IoT protocols.
+
+  ------
+
+  ### ✍️ Articles & Technical Notes
+
+  - 📝 *In preparation:* **Over-the-Air (OTA) FPGA Updates with an Open-Source Toolchain: Bench Lessons on CDC, SPI Noise, and Safe Boot.**
+
+  ------
+
+  ### 📫 Contact & Profiles
+
+  - **LinkedIn:** [linkedin.com/in/marciobar](https://www.linkedin.com/in/marciobar/)
+  - **FAPESP Research Profile:** [bv.fapesp.br/pt/pesquisador/677529/marcio-barbosa](https://bv.fapesp.br/pt/pesquisador/677529/marcio-barbosa/)
+  - **ORCID:** [0000-0002-6660-0549](https://orcid.org/0000-0002-6660-0549)
+  - **Location:** Piracicaba, São Paulo, Brazil
